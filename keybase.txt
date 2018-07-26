@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/kaezarrex
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dhaz.in
+  * I am kaezarrex (https://keybase.io/kaezarrex) on keybase.
+  * I have a public key with fingerprint 9CC4 5C65 D3D2 1AE5 A2FB  B998 29DD A6EB 4275 E5A7
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.3.2"
+        },
+        "key": {
+            "fingerprint": "9cc45c65d3d21ae5a2fbb99829dda6eb4275e5a7",
+            "host": "keybase.io",
+            "key_id": "29DDA6EB4275E5A7",
+            "uid": "b28e481231dac4e35244fd6b6ad8f400",
+            "username": "kaezarrex"
+        },
+        "merkle_root": {
+            "ctime": 1398905563,
+            "hash": "376848c1d84fc2b9cab9a9b7b443e0c7934252fa0c5089205da5501fa8f197b5c2b56360bb7da48e6fcca6367af7a4fa770d86e3e4cbef4e51150edbf7ac8e5a",
+            "seqno": 3095
+        },
+        "service": {
+            "hostname": "dhaz.in",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1398905719,
+    "expire_in": 157680000,
+    "prev": "5899289ffea3ae7197f6b942beef9905bb0b089c9d071633b81bdac53c77d7d8",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+
+owFVkn9MVlUYx19ACIgWCiskm+6aGgWv9/cPhiJM0o1oJkiE0ss5954LV+C9cN+X
+Hy+/HRhCTUpFZ2CFBWSSP6hG6gzMlYgJ0YbQGmOOFEgUFzMQCzqXdOX969znfJ7v
+83yf57z3lIfF3S1kqPlWdO6NFrcr49ASD+rziwioKy4ivIiQMzVkd5onO8hCRDiR
+gVwQOJBV01fYdQVZdzpWPGRCiTxkODTdjinSylhpoiTUxM1kVbOnISPb0EwtQpJl
+lpN5TmEUmgKIA7QKoSSJtKQogEeQpQUORwUsma47nI9VJRY0bZqCo7S0cWMUHxNt
+8jFclMnnLlxAWkSsSNEMpQCZRQxHs6yq8JAHiqiyJGmCDmQ8sgRQITAMVGA2nIWM
+jExkM3R9wbXs1EyGYiRRIjmOZ3BLwJGOsxiBF1lRphSRVWUaSjKAEpCgAFmWQaQs
+SAxLc7QKSJkjRYkmOQVwHEmpQFQpSYAczsFyPAmhoABWRLwqywAHBKAKgFWBIJCK
+yCMGsTJEKos4iuJIpEB8K4t4OtiDA+XYdSKcISWuxPwz8jQZmV2bU3toTkkHhVbN
+julsQ3fqsp6Jg+lOZ3a46dbpyjahfARt/6a3IBvU7Ape1//3SWH08UkIlBRKoIJs
+zUA2zSQ4PA4Sf2YdlIc1OVGSaFFSVQQYgDAvqDyUWBoipEpYAUIS4sHIkkIKFM8w
+UKQg3hbHyIKgCIr4nz9cyQnSsKRDS7MDZ66BiJJq92WLLG7uFi9Pd/PBWnx9/B+9
+4vH1T88nBcfCsrkqz2F9zv7iROvKc5aMfZRPzXcfrn4wyfyck3DISKq7+evHscPx
+Az57HSf7G+Zqi3w6ffYf8Zi5J033u1tvj402XqGPl0UEfHlJ7PnC89Q7F9eRA0Ej
+60/vtW1LSuDWbrEeTmjsSDoSeak52q0jbmB4YoP3tcC+G/VdXjMsaf062m83Gs6d
+8NpZuTIhud1VtJqyT13w/fxOWGl44NDIK+OR33TvmPF/svRQiq9ii+qtP5zmVVN9
+orottfj1sQ9CXM3XGs70LjlT0PNpWGX5mlXr2sqnXyjfunZ7aV5i8ObWzg2ul4Pf
+/SMswI/LXHcv8qujTYOz3+5a//7odGeY4VU1O7qkqSL2zmebBvznegOv1908umnQ
+fc/WC8drf9pHLPWdmg7tlrcHX0RFJ9gq18Enzs4PgQd0a+AWS/vB0Wmi442Tp7sT
+Y6qCSo+99ElAYu1s2d0o74GG+3UJcX+i5AOL2pjlb2eE5odcllv5qw2Dz7ffTq9z
+Lf09ouGAY1up/1yWod6aahl5Vf6+dPm1Pmfh/lX2iv6UVJ/UuKXP3m3a7LruTDWG
+nyveXVd51qv2l9ZnuiJe8+saqylGSeO5f+f/1X65R8/sU/tOrbk/uSyzJ6Mwpz8l
+yFF0fvH5jPir5wLEHbnJb+7ak/ZRgtsPIanzi5t/7DEaPUc8JofqR+b6fnNLQccq
+HN5v/QM=
+=N+Qc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kaezarrex
+
+==================================================================

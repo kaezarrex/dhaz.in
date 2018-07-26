@@ -1,0 +1,15 @@
+* {
+    color: #000;
+}
+
+p a:after {
+    content: " (http://dhaz.in" attr(href) ")";
+}
+
+p a[href^="http://"]:after, a[href^="https://"]:after {
+    content: " (" attr(href) ")";
+}
+
+p a[href^="#"]:after {
+    display: none;
+}

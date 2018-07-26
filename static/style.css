@@ -1,0 +1,30 @@
+body {
+    margin: 40px;
+    color: #333;
+    background-color: #fff;
+    font-family: 'Courier New', serif;
+    font-size: 17px;
+    font-weight: 400;
+}
+h1 {
+    font-size: 17px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 1em 0;
+}
+a {
+    color: #333;
+    transition: all 0.3s;
+    font-weight: 700;
+    text-decoration: none;
+}
+a:hover {
+    color: #666;
+}
+p {
+    margin: 1em 0;
+}
+::selection {
+    color: #fff;
+    background-color: #333;
+}
