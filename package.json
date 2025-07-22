@@ -4,6 +4,6 @@
   },
   "scripts": {
     "dev": "parcel ski/index.html",
-    "build": "parcel build ski/index.html"
+    "build": "parcel build ski/index.html 404.html && cp _redirects dist/ && cp *.txt dist/"
   }
 }
