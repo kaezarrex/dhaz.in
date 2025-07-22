@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "scripts": {
+    "dev": "parcel ski/index.html",
+    "build": "parcel build ski/index.html"
+  }
+}
